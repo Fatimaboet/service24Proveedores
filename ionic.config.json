@@ -1,5 +1,8 @@
 {
   "name": "service24PROV",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
